@@ -21,3 +21,5 @@
     }
 }
 ```
+
+- Reload vscode after config
